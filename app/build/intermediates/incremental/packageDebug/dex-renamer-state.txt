@@ -1,0 +1,7 @@
+#Mon May 08 17:42:00 PDT 2017
+base.0=/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49d74a422e1c50df704991d6e30989fcce451d20
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cab03bfafc8dcca9c95c8e2919cdb85b83f4a2d4/classes.dex
+base.1=/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cab03bfafc8dcca9c95c8e2919cdb85b83f4a2d4
+file.0=/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49d74a422e1c50df704991d6e30989fcce451d20/classes.dex
