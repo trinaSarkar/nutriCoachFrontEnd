@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cab03bfafc8dcca9c95c8e2919cdb85b83f4a2d4/classes.dex" />
+        <dex dex="/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_512d77f915d0906f344de40949830c9a246fba61/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9d4e913af47b2bb0f26dfc5a57e5f0a9c6b4be2f">
-        <dex dex="/Users/anacarolinamexia/Desktop/NutriCoach/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_49d74a422e1c50df704991d6e30989fcce451d20/classes.dex" />
+        sha1="924c9932d42d44b54f346c45b8173aa7aa05e962">
+        <dex dex="/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6fea7e2ef0877a00b737a9bd46b68bac8138c08f/classes.dex" />
     </item>
 
 </items>

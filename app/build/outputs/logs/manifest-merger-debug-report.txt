@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/anacarolinamexia/.android/build-cache/34acdf35db8f373bdaddb7699963c95f0a4ed6d8/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.0] /Users/anacarolinamexia/.android/build-cache/86b4ebc248a69c828f08849642b0215e0123a907/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.0] /Users/anacarolinamexia/.android/build-cache/d087237ae1c1f8aa969c3cbb3cb796e82fc2d28e/output/AndroidManifest.xml:29:5-20
@@ -26,33 +26,33 @@ MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/anacarol
 MERGED from [com.android.support:support-compat:25.3.0] /Users/anacarolinamexia/.android/build-cache/9599dd491109c41d59841ffeeba10508c3842f7a/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/anacarolinamexia/.android/build-cache/97e4c864cdc582f276ad5225fb0812141ff6ee16/output/AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:11:9-40
 activity#project.nutricoach.MainActivity
-ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/anacarolinamexia/.android/build-cache/34acdf35db8f373bdaddb7699963c95f0a4ed6d8/output/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.0] /Users/anacarolinamexia/.android/build-cache/86b4ebc248a69c828f08849642b0215e0123a907/output/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.0] /Users/anacarolinamexia/.android/build-cache/d087237ae1c1f8aa969c3cbb3cb796e82fc2d28e/output/AndroidManifest.xml:21:5-23:60
@@ -66,11 +66,11 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/anac
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/anacarolinamexia/.android/build-cache/34acdf35db8f373bdaddb7699963c95f0a4ed6d8/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/anacarolinamexia/Desktop/NutriCoach/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.0] /Users/anacarolinamexia/.android/build-cache/34acdf35db8f373bdaddb7699963c95f0a4ed6d8/output/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.0] /Users/anacarolinamexia/.android/build-cache/86b4ebc248a69c828f08849642b0215e0123a907/output/AndroidManifest.xml:25:5-27:34
