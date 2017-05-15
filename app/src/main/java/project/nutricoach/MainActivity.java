@@ -12,6 +12,14 @@ package project.nutricoach;
  import android.widget.EditText;
  import android.widget.ListView;
 
+ import com.loopj.android.http.JsonHttpResponseHandler;
+
+ import org.json.JSONArray;
+ import org.json.JSONException;
+ import org.json.JSONObject;
+
+ import cz.msebera.android.httpclient.Header;
+
 
 public class MainActivity extends Activity {
     private static final String TAG = "ChatActivity";
@@ -24,8 +32,11 @@ public class MainActivity extends Activity {
     private boolean right = false;
 
 
+
     @Override
-    public void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState){
+
+
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_main);
@@ -79,5 +90,6 @@ public class MainActivity extends Activity {
         chatArrayAdapter.add(new ChatMessage(left, chatText.getText().toString()));
         chatText.setText("");
         return true;
+     }
+
     }
-}
