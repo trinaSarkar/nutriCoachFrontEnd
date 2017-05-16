@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "outputFile": "/Users/Katy/Documents/cs294w/nutriCoachFrontEnd/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/anacarolinamexia/.android/build-cache/34acdf35db8f373bdaddb7699963c95f0a4ed6d8/output/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "file": "/Users/Katy/.android/build-cache/d71e13ab3c0c7e52ba7b1dd7d377972a5772838e/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -1,7 +1,7 @@
 package project.nutricoach;
 
 
-
+import android.util.Log;
  import android.app.Activity;
  import android.database.DataSetObserver;
  import android.os.Bundle;
@@ -12,10 +12,14 @@ package project.nutricoach;
  import android.widget.EditText;
  import android.widget.ListView;
 
+ import org.json.JSONException;
+
+ import java.io.UnsupportedEncodingException;
+
 
 public class MainActivity extends Activity {
     private static final String TAG = "ChatActivity";
-
+    private NutriResponse nutriResponse;
     private ChatArrayAdapter chatArrayAdapter;
     private ListView listView;
     private EditText chatText;
@@ -33,7 +37,7 @@ public class MainActivity extends Activity {
         buttonSend = (Button) findViewById(R.id.send);
 
         listView = (ListView) findViewById(R.id.msgview);
-
+        nutriResponse = new NutriResponse();
         chatArrayAdapter = new ChatArrayAdapter(getApplicationContext(), R.layout.right);
         listView.setAdapter(chatArrayAdapter);
 
@@ -51,7 +55,13 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View arg0) {
                 sendChatMessage();
-                sendRightMessage();
+                try {
+                    sendRightMessage();
+                } catch (UnsupportedEncodingException e) {
+                    e.printStackTrace();
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
             }
         });
 
@@ -68,8 +78,10 @@ public class MainActivity extends Activity {
         });
     }
 
-    private boolean sendRightMessage() {
-        String response= "Sample Response";
+    private boolean sendRightMessage() throws UnsupportedEncodingException, JSONException {
+//        String response= "Sample Response";
+        String response = nutriResponse.createResponse(chatText.getText().toString());
+//        Log.d("Testing", test);
         chatArrayAdapter.add(new ChatMessage(right,response));
         chatText.setText("");
         return true;
