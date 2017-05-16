@@ -60,6 +60,10 @@
         "source": "/Users/anacarolinamexia/.android/build-cache/34acdf35db8f373bdaddb7699963c95f0a4ed6d8/output/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/res/merged/debug/layout/login_screen.xml",
+        "source": "/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/res/layout/login_screen.xml"
+    },
+    {
         "merged": "/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/src/main/res/layout/activity_main.xml"
     },

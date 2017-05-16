@@ -1,4 +1,4 @@
-#Mon May 15 15:10:40 PDT 2017
+#Mon May 15 17:34:13 PDT 2017
 base.0=/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6fea7e2ef0877a00b737a9bd46b68bac8138c08f
 renamed.1=classes.dex
 renamed.0=classes2.dex
