@@ -1,0 +1,7 @@
+#Mon May 15 17:34:13 PDT 2017
+base.0=/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6fea7e2ef0877a00b737a9bd46b68bac8138c08f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_512d77f915d0906f344de40949830c9a246fba61/classes.dex
+base.1=/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_512d77f915d0906f344de40949830c9a246fba61
+file.0=/Users/anacarolinamexia/Dropbox/Junior/Spring/CS294W/nutriCoachFrontEnd/nutriCoachFrontEnd/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6fea7e2ef0877a00b737a9bd46b68bac8138c08f/classes.dex
